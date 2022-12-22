@@ -1,1 +1,1 @@
-# Hello! Here you can see my JS school work!
+# Hello! Here you can see some of my JS school work!
